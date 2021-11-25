@@ -1,4 +1,4 @@
-package cars;
+/*package cars;
 
 import org.junit.jupiter.api.Test;
 
@@ -36,4 +36,4 @@ class CarTest {
         assertEquals(2_000_000,car.getPrice());
     }
 
-}
+}*/

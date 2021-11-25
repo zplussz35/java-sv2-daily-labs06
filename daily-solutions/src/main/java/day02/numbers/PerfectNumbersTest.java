@@ -1,4 +1,4 @@
-package numbers;
+/*package numbers;
 
 import org.junit.jupiter.api.Test;
 
@@ -17,4 +17,4 @@ class PerfectNumbersTest {
 
     }
 
-}
+}*/
