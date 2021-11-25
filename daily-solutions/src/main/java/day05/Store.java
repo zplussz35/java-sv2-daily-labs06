@@ -65,5 +65,7 @@ public class Store {
 
     }
 
-
+    public List<Product> getProducts() {
+        return products;
+    }
 }
